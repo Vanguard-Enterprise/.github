@@ -1,3 +1,3 @@
-<img src="https://raw.githubusercontent.com/Vanguard-Enterprise/Vanguard-Enterprise/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Vanguard-Enterprise/.github/blob/main/10.png?raw=true" alt="Logo" />
 
 ###
